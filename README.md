@@ -8,18 +8,31 @@ Let's jam.
 # Reharsing
 Here are a few things we should do before the jam, or now...
 
+Sonic Pi
+https://sonic-pi.net/
+
+
 Why should we practice Sonic Pi?
 Programming as a Performance by Sam Aaron
 https://www.youtube.com/watch?v=0lTZ8Tuyu5I
 
-Install Sonic Pi
-https://sonic-pi.net/
 
-# Experimenting
+# References
 
-Try the code in this repo on Sonic Pi
+# Performances
+[Sam Aaron live coding an ambient electro set w/ Sonic Pi](https://www.youtube.com/watch?v=G1m0aX9Lpts&t=409s)
 
-# Let's re-create a song!
+[Opening Performance: Livecoded original set - GitHub Universe 2021](https://www.youtube.com/watch?v=JDxhkdm_t1U)
 
-## TODO
+[The Forest - Live Coding Performance w/ Sonic Pi - Halfstack Online Virtual Conference, May 2020](https://www.youtube.com/watch?v=-vDEIG_kiGk&t=900s)
+
+# Demos & More
+[Sam Aaron](https://www.youtube.com/@SamAaron)
+
+[Mister Bomb](https://www.youtube.com/@MrBombMusic)
+
+[Sonic Pi - Live. Code. Music.](https://www.youtube.com/watch?v=suH_goWVBeA&t=53s)
+
+
+
 
