@@ -1,0 +1,12 @@
+play :c4
+sleep 0.25
+play :c4
+sleep 0.25
+play :c4
+sleep 0.25
+play :c4
+sleep 0.25
+play :d4
+sleep 0.5
+play :f4
+sleep 0.5
