@@ -14,7 +14,6 @@ Here are a few things we should do before the jam, or now...
 Sonic Pi
 https://sonic-pi.net/
 
-
 Why should we practice Sonic Pi?
 Programming as a Performance by Sam Aaron
 https://www.youtube.com/watch?v=0lTZ8Tuyu5I
@@ -26,7 +25,7 @@ https://www.youtube.com/watch?v=0lTZ8Tuyu5I
 
 [The Forest - Live Coding Performance w/ Sonic Pi - Halfstack Online Virtual Conference, May 2020](https://www.youtube.com/watch?v=-vDEIG_kiGk&t=900s)
 
-# Demos & More
+# Demos & Videos
 [Sam Aaron](https://www.youtube.com/@SamAaron)
 
 [Mister Bomb](https://www.youtube.com/@MrBombMusic)
@@ -42,4 +41,5 @@ https://www.audacityteam.org/
 
 https://experiments.withgoogle.com/ai/drum-machine/view/
 
-
+# Readings
+https://www.drumeo.com/beat/13-easy-beginner-drum-beats/

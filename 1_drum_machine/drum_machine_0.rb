@@ -1,4 +1,4 @@
-live_loop :myloop do
-  sample :loop_amen
-  sleep 1
+live_loop :kick do
+    sample :drum_heavy_kick
+    sleep 1
 end

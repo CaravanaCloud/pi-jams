@@ -1,26 +1,20 @@
-# https://www.drumeo.com/beat/13-easy-beginner-drum-beats/
-use_bpm 92
-slp = 0.66
+use_bpm 100
+beat = 1
 
-amps = [
-  [1, 1, 1, 1,  1, 1, 1, 1],
-  [1, 0, 0, 0,  1, 1, 0, 0],
-  [1, 0, 1, 0,  0, 0, 1, 0],
-]
+live_loop :drums do
+  sample :drum_heavy_kick
+  sleep beat
+  sample :drum_snare_hard
+  sleep beat
+  sample :drum_heavy_kick
+  sleep beat
+  sample :drum_snare_hard
+  sleep beat
+end
 
-samples = [
-  :drum_snare_soft,
-  :drum_bass_hard,
-  :drum_cymbal_closed
-]
-
-
-ticks = amps[0].length - 1
-live_loop :myloop do
-  0.upto(ticks) do |t|
-    samples.each_with_index do |s, i|
-      sample s, amp: amps[i][t]
-    end
-    sleep slp
-  end
+live_loop :hihat do
+  sample :drum_cymbal_closed
+  sleep 0.25 * beat
+  sample :drum_cymbal_pedal
+  sleep 0.75 * beat
 end

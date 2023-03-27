@@ -1,19 +1,12 @@
-amps = [
-  [1, 1, 1, 1,  1, 1, 1, 1,  1, 1, 1, 1,  1, 1, 1, 1 ],
-  [1, 0, 0, 0,  1, 0, 0, 0,  1, 0, 0, 0,  1, 0, 0, 0 ]
-]
-
-samples = [
-  :drum_cymbal_closed,
-  :drum_bass_hard
-]
-
-ticks = amps[0].length - 1
-live_loop :myloop do
-  0.upto(ticks) do |t|
-    samples.each_with_index do |s, i|
-      sample s, amp: amps[i][t]
-    end
-    sleep 1
-  end
+# Partial Samples
+# ADSR Envelope: https://sonic-pi.net/tutorial.html#section-3-5
+live_loop :met do
+  sample :loop_amen,
+    rate: 2,
+    attack: 0.01,
+    sustain: 0,
+    release: 0.35,
+    start: 0.2,
+    finish: 0.8
+  sleep 1
 end
