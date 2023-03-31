@@ -1,10 +1,12 @@
-Jams with Sonic Pi
+https://bit.ly/pi-jams
 
 # Welcome to our Sonic-Pi gig!
 
 In this workshop we'll practice music through code and code through music. It's adequate for all ages and levels of experience,  just get your computer and let's create some beeps. Please just be mindful of others and wear headphones until you are ready share your sounds.
 
-Now would be a good time to download install Sonic PI if you have not already: [https://sonic-pi.net/]()
+Now would be a good time to download install Sonic PI if you have not already: https://sonic-pi.net/
+
+Also on flathub: https://flathub.org/apps/details/net.sonic_pi.SonicPi
 
 The workshop is divided in stages, each designed to practice one aspect of Sonic Pi. If you are new to coding and music, it's recommended you visit the stages in order. However, feel free to spend as much time as you'd like on each one, and mix them as you go.
 
